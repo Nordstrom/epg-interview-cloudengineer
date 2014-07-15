@@ -37,4 +37,4 @@ will need to communicate back to your on premise data center. Please implement t
 * Push up any scripts and/or code you plan on using to your cloned Github repo and be prepared to share 
   this information during the audition
 
-**IF YOU CAN'T USE A PUBLIC REPO ON GITHUB, USE BITCUCKET [[ https://bitbucket.org/ ]] AND SET UP A PRIVATE REPO**
+**IF YOU CAN'T USE A PUBLIC REPO ON GITHUB, USE BITBUCKET [[ https://bitbucket.org/ ]] AND SET UP A PRIVATE REPO**
